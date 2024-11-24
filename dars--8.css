@@ -1,0 +1,8 @@
+.card{
+    width: 100%;
+    height: 100vw;
+    background-image: url('./images\ \(1\).jfif'), url('./manzara.jpeg') , url('./sher.jpg'), url('./odam.jpg');
+    background-repeat: no-repeat;
+    background-size: 50% 50% , 50% 50%;
+    background-position: left top , right top ,left bottom , right bottom;
+}
